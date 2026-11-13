@@ -2,6 +2,7 @@ BREW NOIR ☕
 Brewed in Darkness, Perfected in Flavor.
 
 BREW NOIR is a premium coffee shop website concept designed around a dark, elegant visual identity. The website presents a specialty coffee brand through a cinematic atmosphere, refined typography, coffee imagery, and a collection of pages for exploring the brand, menu, locations, and more.
+
 ✨ Features
 - Home page – Introduces the BREW NOIR brand, its philosophy, and coffee experience.
 - Menu – Showcases specialty coffee creations and menu information.
@@ -13,6 +14,7 @@ BREW NOIR is a premium coffee shop website concept designed around a dark, elega
 - Contact – Provides contact information and an inquiry form interface.
 - Bilingual experience – Separate English and Albanian versions of the website.
 - Responsive styling – CSS layouts use responsive sizing and styling techniques for different screen sizes.
+- 
 🎨 Design
 The visual identity is built around a premium, atmospheric coffee-shop aesthetic:
 - Dark backgrounds and subtle contrast.
@@ -21,71 +23,26 @@ The visual identity is built around a premium, atmospheric coffee-shop aesthetic
 - Cormorant Garamond for elegant headings.
 - Jost for clean, readable interface text.
 - Consistent branding and navigation across the pages.
+- 
 🛠️ Technologies
 - HTML5 – Page structure and content.
 - CSS3 – Layout, styling, typography, and responsive design.
 - JavaScript – Small interactive elements, including gallery filtering.
 - Google Fonts – Cormorant Garamond and Jost.
 No framework, package manager, or build process is required.
-📁 Project Structure
-BrewNoir/
-│
-├── index.html
-├── about.html
-├── menu.html
-├── gallery.html
-├── locations.html
-├── blog.html
-├── offers.html
-├── contact.html
-│
-├── css/
-│   ├── style.css
-│   ├── about.css
-│   ├── menu.css
-│   ├── gallery.css
-│   ├── locations.css
-│   ├── blog.css
-│   ├── offers.css
-│   └── contact.css
-│
-├── images/
-│   └── ... image assets
-│
-└── shqip/
-    ├── index.html
-    ├── about.html
-    ├── menu.html
-    ├── gallery.html
-    ├── locations.html
-    ├── blog.html
-    ├── offers.html
-    ├── contact.html
-    ├── css/
-    └── images/
+
 Each page has its own CSS file, while the English and Albanian versions are organised separately.
-🚀 Getting Started
-You can run the website locally without installing additional dependencies.
-1. Clone the repository:
-   git clone https://github.com/anilaibrahimi-al/brewnoir.git
-2. Open the project folder:
-   cd brewnoir
-3. Open index.html in your browser.
-Recommended: Open the folder in Visual Studio Code and use the Live Server extension to preview the website while developing.
-🌐 Language Versions
-- English: Open index.html.
-- Albanian: Open shqip/index.html.
-Use the language links in the navigation to switch between the two versions.
-📌 Project Scope
 BREW NOIR is a frontend website project. It currently uses static HTML and CSS pages with limited JavaScript interactions.
 
 There is no connected backend, database, online ordering system, or server-side form processing included in the current version. The contact form is a frontend interface and does not independently send or store submissions.
+
 🔮 Possible Future Improvements
 - Add a backend to process contact form submissions.
 - Introduce an online ordering and reservation system.
 - Connect a database for menu items, offers, and customer inquiries.
 - Improve accessibility and keyboard navigation.
 - Add further interactive features and performance optimisations.
+- 
 📄 License
 This project is available for educational and portfolio purposes. Image assets, fonts, and other third-party resources may be subject to their respective licenses.
 BREW NOIR — A place where coffee, craftsmanship, and atmosphere come together.
